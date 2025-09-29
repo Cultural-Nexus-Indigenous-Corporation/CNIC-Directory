@@ -1,0 +1,1452 @@
+[
+  {
+    "organisation": "NACCHO (National Aboriginal Community Controlled Health Organisation)",
+    "description": "National peak body representing 148 Aboriginal Community Controlled Health Organisations (ACCHOs) across Australia.",
+    "phone": "+61 2 6246 9300",
+    "email": "",
+    "address": "Level 5 East Tower, 2 Constitution Avenue, Canberra City ACT 2601",
+    "website": "https://www.naccho.org.au",
+    "category": "Health & Wellbeing",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "TSRA (Torres Strait Regional Authority)",
+    "description": "Australian Government statutory authority supporting Torres Strait Islander and Aboriginal people in the Torres Strait region.",
+    "phone": "+61 7 4069 0700 | 1800 079 093",
+    "email": "info@tsra.gov.au",
+    "address": "Torres Haus, Level 1, 46 Victoria Parade, Thursday Island QLD 4875",
+    "website": "https://www.tsra.gov.au",
+    "category": "National Organisation",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Aboriginal Hostels Limited (AHL)",
+    "description": "National network of culturally safe, affordable accommodation for First Nations people needing to be away from home for services, study or work.",
+    "phone": "+61 2 6212 2001",
+    "email": "",
+    "address": "Level 1, 2–6 Shea Street, Phillip ACT 2606",
+    "website": "https://www.ahl.gov.au",
+    "category": "Housing & Homelessness",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "The Healing Foundation",
+    "description": "National Aboriginal and Torres Strait Islander organisation that partners with communities to address trauma and healing, including Stolen Generations.",
+    "phone": "+61 2 6272 7500",
+    "email": "info@healingfoundation.org.au",
+    "address": "Unit 11 (Level 2), 11 National Circuit, Barton ACT 2600",
+    "website": "https://healingfoundation.org.au",
+    "category": "Health & Wellbeing",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "13YARN",
+    "description": "24/7 national crisis support line for Aboriginal and Torres Strait Islander people.",
+    "phone": "13 92 76",
+    "email": "enquiries@13yarn.org.au",
+    "address": "",
+    "website": "https://www.13yarn.org.au",
+    "category": "Suicide Prevention & SEWB",
+    "location": "National"
+  },
+  {
+    "organisation": "NATSILS (National Aboriginal and Torres Strait Islander Legal Services)",
+    "description": "National peak body for Aboriginal and Torres Strait Islander Legal Services.",
+    "phone": "",
+    "email": "natsilssecretariat@alsnswact.org.au",
+    "address": "",
+    "website": "https://www.natsils.org.au",
+    "category": "Legal & Justice",
+    "location": "National"
+  },
+  {
+    "organisation": "ALS NSW/ACT (Aboriginal Legal Service)",
+    "description": "Legal assistance for Aboriginal and Torres Strait Islander peoples across NSW and the ACT.",
+    "phone": "1800 765 767",
+    "email": "",
+    "address": "",
+    "website": "https://www.alsnswact.org.au",
+    "category": "Legal & Justice",
+    "location": "National"
+  },
+  {
+    "organisation": "ALSWA (Aboriginal Legal Service of Western Australia)",
+    "description": "Legal representation and support for Aboriginal and Torres Strait Islander peoples in WA.",
+    "phone": "+61 8 9265 6666 | 1800 019 900",
+    "email": "Reception@als.org.au",
+    "address": "Perth (near McIver Station) — PO Box 8194, Perth Business Centre WA 6849",
+    "website": "https://www.als.org.au",
+    "category": "Legal & Justice",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "ATSILS QLD (Aboriginal and Torres Strait Islander Legal Service)",
+    "description": "Legal services for Aboriginal and Torres Strait Islander peoples across Queensland (20+ offices).",
+    "phone": "1800 012 255",
+    "email": "",
+    "address": "Multiple locations across QLD",
+    "website": "https://atsils.org.au",
+    "category": "Legal & Justice",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "NAAJA (North Australian Aboriginal Justice Agency)",
+    "description": "Legal services for Aboriginal people in the Northern Territory (criminal, civil, family).",
+    "phone": "1800 898 251",
+    "email": "reception@naaja.org.au",
+    "address": "61 Smith Street, Darwin NT 0800 (Head Office)",
+    "website": "https://www.naaja.org.au",
+    "category": "Legal & Justice",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "ALRM (Aboriginal Legal Rights Movement)",
+    "description": "Independent legal service for Aboriginal and Torres Strait Islander peoples in South Australia.",
+    "phone": "1800 643 222",
+    "email": "info@alrm.org.au",
+    "address": "321–325 King William Street, Adelaide SA 5000",
+    "website": "https://www.alrm.org.au",
+    "category": "Legal & Justice",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "TALS (Tasmanian Aboriginal Legal Service)",
+    "description": "Culturally safe legal services for Aboriginal people in Tasmania.",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "website": "https://tals.au",
+    "category": "Legal & Justice",
+    "location": "National"
+  },
+  {
+    "organisation": "SNAICC – National Voice for our Children",
+    "description": "National non‑government peak body for Aboriginal and Torres Strait Islander children and families.",
+    "phone": "1300 762 422",
+    "email": "info@snaicc.org.au",
+    "address": "Suite 1, Level 8, 36 Wellington Street, Collingwood VIC 3066",
+    "website": "https://www.snaicc.org.au",
+    "category": "Women, Children & Families",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Lowitja Institute",
+    "description": "National institute for Aboriginal and Torres Strait Islander health research.",
+    "phone": "+61 3 8341 5555",
+    "email": "lowitjaadmin@lowitja.org.au",
+    "address": "Ground Floor, 71 Oxford St, Collingwood VIC 3066",
+    "website": "https://www.lowitja.org.au",
+    "category": "Health & Wellbeing",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Indigenous Business Australia (IBA)",
+    "description": "Supports First Nations people to start or grow businesses and access home ownership and investment opportunities.",
+    "phone": "1800 107 107",
+    "email": "",
+    "address": "Level 2, 15 Lancaster Place, Majura Park ACT 2609",
+    "website": "https://www.iba.gov.au",
+    "category": "General Services",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "AIATSIS",
+    "description": "Australia’s national institution for Aboriginal and Torres Strait Islander cultures, histories and heritage.",
+    "phone": "+61 2 6246 1111",
+    "email": "commsmedia@aiatsis.gov.au",
+    "address": "51 Lawson Crescent, Acton Peninsula, Acton ACT 2601",
+    "website": "https://aiatsis.gov.au",
+    "category": "Community & Culture",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "AIEF (Australian Indigenous Education Foundation)",
+    "description": "Scholarships and support for Aboriginal and Torres Strait Islander students.",
+    "phone": "+61 2 8373 8000",
+    "email": "info@aief.com.au",
+    "address": "Suite 2A, Level 2, 2–12 Foveaux Street, Surry Hills NSW 2010",
+    "website": "https://www.aief.com.au",
+    "category": "Education & Youth",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "TSIRC (Torres Strait Island Regional Council)",
+    "description": "Local government for 15 Torres Strait Island communities.",
+    "phone": "+61 7 4034 5700",
+    "email": "",
+    "address": "Multiple community offices; Corporate Office: 46 Victoria Parade, Thursday Island QLD 4875",
+    "website": "https://tsirc.qld.gov.au",
+    "category": "General Services",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "TSIMA – Radio 4MW (Torres Strait Islander Media Association)",
+    "description": "Community media organisation broadcasting across Zenadth Kes (Torres Strait).",
+    "phone": "+61 7 4069 1524",
+    "email": "",
+    "address": "69 Douglas St, Thursday Island QLD 4875",
+    "website": "https://www.tsima4mw.org.au",
+    "category": "Community & Culture",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "GBK (Gur A Baradharaw Kod) – Torres Strait Sea and Land Council",
+    "description": "Peak body for Prescribed Bodies Corporate (PBCs) across the Torres and Endeavour Straits; native title and regional development.",
+    "phone": "+61 7 4083 1000",
+    "email": "admin@gbk.org.au",
+    "address": "Level 1, 82 Douglas Street, Thursday Island QLD 4875",
+    "website": "https://www.gbk.org.au",
+    "category": "National Organisation",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "QIFVLS (Queensland Indigenous Family Violence Legal Service)",
+    "description": "Free, culturally appropriate legal services for those affected by family violence or sexual assault across QLD.",
+    "phone": "1800 887 700",
+    "email": "help@qifvls.com.au",
+    "address": "Head Office: Level 1, Suite 4, 101–111 Spence Street, Cairns QLD 4870",
+    "website": "https://qifvls.com.au",
+    "category": "Legal & Justice",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "AMSANT (Aboriginal Medical Services Alliance Northern Territory)",
+    "description": "Peak body for ACCHSs in the Northern Territory.",
+    "phone": "+61 8 8944 6666",
+    "email": "reception@amsant.org.au",
+    "address": "43 Mitchell Street, Darwin City NT 0800",
+    "website": "https://www.amsant.org.au",
+    "category": "Health & Wellbeing",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Ask Izzy (finder)",
+    "description": " (Focus: Directory to find free or low-cost meals, food parcels, vouchers near you)",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "website": "https://askizzy.org.au/food",
+    "category": "Food Relief",
+    "location": "National"
+  },
+  {
+    "organisation": "13YARN (context)",
+    "description": " (Focus: 24/7 yarn line for mob; can help navigate crisis and connect to local supports incl. food/ER)",
+    "phone": "13 92 76",
+    "email": "enquiries@13yarn.org.au",
+    "address": "",
+    "website": "https://www.13yarn.org.au",
+    "category": "Food Relief",
+    "location": "National"
+  },
+  {
+    "organisation": "Girudala Community Co‑Operative Society",
+    "description": " (Focus: Food relief connections and support alongside housing & family programs)",
+    "phone": "(07) 4786 1000",
+    "email": "",
+    "address": "50 George St, Bowen QLD 4805",
+    "website": "https://girudala.com.au/",
+    "category": "Housing & Homelessness",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Mura Kosker Sorority Inc.",
+    "description": " (Focus: Emergency relief referrals incl. food vouchers/hamper support for families)",
+    "phone": "(07) 4069 1663",
+    "email": "info@murakosker.org.au",
+    "address": "99 Douglas St, Thursday Island QLD 4875",
+    "website": "https://murakosker.org.au/",
+    "category": "Food Relief",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Palm Island Community Company (PICC) – Community Shop linkages",
+    "description": " (Focus: Access to affordable food; referrals for emergency assistance through local services)",
+    "phone": "(07) 4421 4300",
+    "email": "admin@picc.com.au",
+    "address": "61–73 Sturt St, Townsville QLD 4810 (Townsville office)",
+    "website": "https://www.picc.com.au/",
+    "category": "Food Relief",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Larrakia Nation – HEAL / Outreach",
+    "description": " (Focus: Practical support for people in the long-grass incl. health, transport and connections to food)",
+    "phone": "(08) 8948 3733",
+    "email": "info@larrakia.com",
+    "address": "50 Bradshaw Tce, Casuarina NT 0810 (HEAL)",
+    "website": "https://larrakia.com/outreach-services/",
+    "category": "Health & Wellbeing",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Tangentyere Council – Emergency Relief",
+    "description": " (Focus: Emergency Relief incl. food vouchers/food parcels for town camp residents and Alice Springs community)",
+    "phone": "(08) 8951 4233",
+    "email": "",
+    "address": "4 Elder St, Alice Springs NT 0870",
+    "website": "https://www.tangentyere.org.au/",
+    "category": "Food Relief",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Wungening Aboriginal Corporation",
+    "description": " (Focus: Emergency relief referrals and community supports; can assist with food access via partners)",
+    "phone": "(08) 9221 1411",
+    "email": "",
+    "address": "211 Royal St, East Perth WA 6004",
+    "website": "https://www.wungening.com.au/",
+    "category": "Food Relief",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Noongar Mia Mia (Housing pathways)",
+    "description": " (Focus: Can broker connections to emergency relief/food while stabilising housing)",
+    "phone": "(08) 9271 8711",
+    "email": "operations@noongarmiamia.com.au",
+    "address": "Perth WA",
+    "website": "https://noongarmiamia.com.au/",
+    "category": "Housing & Homelessness",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Aboriginal Sobriety Group Indigenous Corporation (ASG)",
+    "description": " (Focus: Emergency relief links and food support via outreach & accommodation programs)",
+    "phone": "(08) 8223 4204",
+    "email": "",
+    "address": "94 Grand Junction Rd, Kilburn SA 5084",
+    "website": "https://aboriginalsobrietygroup.org.au/",
+    "category": "Housing & Homelessness",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "VACCA – Victorian Aboriginal Child Care Agency",
+    "description": " (Focus: Material aid and family supports; can include food parcels/vouchers via programs)",
+    "phone": "(03) 9287 8800",
+    "email": "",
+    "address": "340 Bell St, Preston VIC 3072 (HQ)",
+    "website": "https://www.vacca.org/",
+    "category": "Food Relief",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Elizabeth Morgan House (women/children)",
+    "description": " (Focus: Crisis accommodation with material aid incl. food support for women & children)",
+    "phone": "(03) 9482 5744",
+    "email": "",
+    "address": "Abbotsford VIC (office)",
+    "website": "https://www.emhaws.org.au/",
+    "category": "Housing & Homelessness",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Weave Youth & Community Services",
+    "description": " (Focus: Casework with access to food/material aid for families and young people)",
+    "phone": "(02) 9318 0539",
+    "email": "",
+    "address": "1B Elizabeth St, Waterloo NSW 2017",
+    "website": "https://www.weave.org.au/programs/",
+    "category": "Food Relief",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Tasmanian Aboriginal Centre",
+    "description": " (Focus: Counselling/SEWB and referrals to emergency relief incl. food support)",
+    "phone": "(03) 6332 3800 (Launceston) / (03) 6436 4100 (Burnie)",
+    "email": "launceston@tacinc.com.au; burnie@tacinc.com.au",
+    "address": "182 Charles St, Launceston TAS 7250; 53 Alexander St, Burnie TAS 7320",
+    "website": "https://tacinc.com.au/",
+    "category": "Health & Wellbeing",
+    "location": "Tasmania"
+  },
+  {
+    "organisation": "Loaves & Fishes Tasmania (partner)",
+    "description": " (Focus: Free cooked meals & emergency food hampers distributed via community partners)",
+    "phone": "(03) 6417 3131",
+    "email": "",
+    "address": "136–140 Don Rd, Devonport TAS 7310",
+    "website": "https://loavesandfishestasmania.org.au/",
+    "category": "Food Relief",
+    "location": "Tasmania"
+  },
+  {
+    "organisation": "NACCHO – National Aboriginal Community Controlled Health Organisation",
+    "description": " (Focus: Peak for Aboriginal Community Controlled Health Organisations (ACCHOs); advocacy; Culture Care Connect suicide prevention network)",
+    "phone": "+61 2 6246 9300",
+    "email": "",
+    "address": "Level 5 East Tower, 2 Constitution Ave, Canberra ACT 2601",
+    "website": "https://www.naccho.org.au",
+    "category": "Peak / Health",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "CBPATSISP – Centre of Best Practice in Aboriginal & Torres Strait Islander Suicide Prevention",
+    "description": " (Focus: Best‑practice guidance, research & resources for suicide prevention)",
+    "phone": "",
+    "email": "",
+    "address": "UWA, 35 Hackett Dr, Crawley WA 6009",
+    "website": "https://cbpatsisp.com.au",
+    "category": "SEWB / Suicide Prevention",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Thirrili – National Indigenous Postvention Service",
+    "description": " (Focus: Postvention support for families and communities after suicide or traumatic loss)",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "website": "https://thirrili.com.au",
+    "category": "Postvention / SEWB",
+    "location": "National"
+  },
+  {
+    "organisation": "The Healing Foundation",
+    "description": " (Focus: Stolen Generations healing; trauma‑informed programs & resources)",
+    "phone": "+61 2 6272 7500",
+    "email": "info@healingfoundation.org.au",
+    "address": "Unit 11 (Level 2), 11 National Cct, Barton ACT 2600",
+    "website": "https://healingfoundation.org.au",
+    "category": "Healing / SEWB",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "Indigenous Business Australia (IBA)",
+    "description": " (Focus: Business support, home ownership pathways, investment for First Nations peoples)",
+    "phone": "1800 107 107",
+    "email": "",
+    "address": "Level 2, 15 Lancaster Pl, Majura Park ACT 2609",
+    "website": "https://www.iba.gov.au",
+    "category": "Employment / Economic",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "SNAICC – National Voice for our Children",
+    "description": " (Focus: Early years, child & family services, policy & capacity‑building)",
+    "phone": "1300 762 422",
+    "email": "info@snaicc.org.au",
+    "address": "Suite 1, Level 8, 36 Wellington St, Collingwood VIC 3066",
+    "website": "https://www.snaicc.org.au",
+    "category": "Children & Families",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "ATSICHS Brisbane – Aboriginal & Torres Strait Islander Community Health Service",
+    "description": " (Focus: Health, Social & Emotional Wellbeing, family wellbeing, youth & community programs)",
+    "phone": "(07) 3240 8900",
+    "email": "",
+    "address": "Level 1, 55 Annerley Rd, Woolloongabba QLD 4102",
+    "website": "https://atsichsbrisbane.org.au",
+    "category": "Health / SEWB / Youth",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "IUIH – Institute for Urban Indigenous Health",
+    "description": " (Focus: Regional health & wellbeing network supporting SEQ ACCHOs; social health, family wellbeing, deadliest choices)",
+    "phone": "",
+    "email": "",
+    "address": "22 Cox Rd, Windsor QLD 4030 (HQ)",
+    "website": "https://www.iuih.org.au",
+    "category": "Health / SEWB / Prevention",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "TAIHS – Townsville Aboriginal & Islander Health Service",
+    "description": " (Focus: Health, SEWB, homeless outreach, family services)",
+    "phone": "(07) 4759 4000",
+    "email": "",
+    "address": "57‑59 Gorden St, Garbutt QLD 4814",
+    "website": "https://www.taihs.net.au",
+    "category": "Health / SEWB / Homelessness",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Wuchopperen Health Service",
+    "description": " (Focus: Health & SEWB services in Cairns)",
+    "phone": "(07) 4080 1000",
+    "email": "",
+    "address": "6 Moignard St, Manoora QLD 4870",
+    "website": "https://www.wuchopperen.org.au",
+    "category": "Health / SEWB",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Apunipima Cape York Health Council",
+    "description": " (Focus: Cape York wellbeing centres, SEWB, community programs)",
+    "phone": "(07) 4037 7100",
+    "email": "",
+    "address": "186 McCoombe St, Bungalow QLD 4870",
+    "website": "https://www.apunipima.org.au",
+    "category": "Health / SEWB",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Gidgee Healing – Mt Isa & Gulf",
+    "description": " (Focus: Primary health care & SEWB across NW QLD)",
+    "phone": "(07) 4749 6500",
+    "email": "",
+    "address": "22 Miles St, Mount Isa QLD 4825",
+    "website": "https://www.gidgeehealing.com",
+    "category": "Health / SEWB",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Bidgerdii Community Health Service (Rockhampton)",
+    "description": " (Focus: Health & SEWB; family programs)",
+    "phone": "(07) 4920 0033",
+    "email": "",
+    "address": "162 Bolsover St, Rockhampton QLD 4700",
+    "website": "https://www.bidgerdii.org",
+    "category": "Health / SEWB",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Yumba‑Meta Ltd (Townsville)",
+    "description": " (Focus: Community housing, crisis accommodation, women’s shelters)",
+    "phone": "(07) 4723 5611",
+    "email": "housing@yumbameta.com.au",
+    "address": "Townsville QLD",
+    "website": "https://yumba-meta.com.au",
+    "category": "Housing / Homelessness",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Murri Watch",
+    "description": " (Focus: Homelessness outreach, diversionary centre, community patrol)",
+    "phone": "",
+    "email": "",
+    "address": "Brisbane & Townsville QLD",
+    "website": "https://murriwatch.org.au",
+    "category": "Homelessness / Justice diversion",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Girudala Community Co‑Operative Society (Bowen/Whitsundays)",
+    "description": " (Focus: Affordable housing, family wellbeing, community programs)",
+    "phone": "(07) 4786 1000",
+    "email": "",
+    "address": "50 George St, Bowen QLD 4805",
+    "website": "https://girudala.com.au",
+    "category": "Housing / Families",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Umpi Korumba Housing",
+    "description": " (Focus: Supported/transitional accommodation for families (North Brisbane & surrounds))",
+    "phone": "",
+    "email": "reception@umpikorumba.com.au",
+    "address": "74 Handford Rd, Zillmere QLD 4034",
+    "website": "https://umpikorumba.com.au",
+    "category": "Housing",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Palm Island Community Company (PICC)",
+    "description": " (Focus: Family wellbeing, diversionary services, community supports)",
+    "phone": "(07) 4421 4300",
+    "email": "admin@picc.com.au",
+    "address": "61–73 Sturt St, Townsville QLD 4810 (Townsville office)",
+    "website": "https://www.picc.com.au",
+    "category": "Families / Community",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Mura Kosker Sorority Inc.",
+    "description": " (Focus: Family & community support, crisis referrals in Torres Strait)",
+    "phone": "(07) 4069 1663",
+    "email": "info@murakosker.org.au",
+    "address": "99 Douglas St, Thursday Island QLD 4875",
+    "website": "https://murakosker.org.au",
+    "category": "Women / Families / ER",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Awabakal Ltd",
+    "description": " (Focus: Health & community services across Newcastle/Lake Macquarie)",
+    "phone": "(02) 4918 6400",
+    "email": "",
+    "address": "Post Office Box 117, Wickham NSW 2293 (Admin)",
+    "website": "https://www.awabakal.org",
+    "category": "Health / Families",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Yerin Eleanor Duncan Aboriginal Health Services",
+    "description": " (Focus: Health, wellbeing, family & community programs (Central Coast))",
+    "phone": "(02) 4351 1040",
+    "email": "",
+    "address": "2A McPherson Rd, Mardi NSW 2259",
+    "website": "https://eleanorduncan.org.au",
+    "category": "Health / SEWB",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Maari Ma Health Aboriginal Corporation",
+    "description": " (Focus: Health & SEWB in Far West NSW (Broken Hill, Wilcannia, Menindee))",
+    "phone": "(08) 8082 9888",
+    "email": "",
+    "address": "439 Argent St, Broken Hill NSW 2880",
+    "website": "https://maarima.com.au",
+    "category": "Health / SEWB",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "AH&MRC of NSW (peak)",
+    "description": " (Focus: Peak body for NSW ACCHSs; capacity building & programs)",
+    "phone": "(02) 9212 4777",
+    "email": "",
+    "address": "Level 3, 66 Wentworth Ave, Surry Hills NSW 2010",
+    "website": "https://www.ahmrc.org.au",
+    "category": "Peak / Health",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Wirringa Baiya Aboriginal Women’s Legal Centre",
+    "description": " (Focus: Legal advice/support for Aboriginal & Torres Strait Islander women in NSW)",
+    "phone": "1800 686 587",
+    "email": "",
+    "address": "Marrickville NSW (postal)",
+    "website": "https://wirringabaiya.org.au",
+    "category": "Legal / Family Violence",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "VAHS – Victorian Aboriginal Health Service",
+    "description": " (Focus: Primary health & family counselling / SEWB; youth programs)",
+    "phone": "(03) 9419 3000",
+    "email": "",
+    "address": "186 Nicholson St, Fitzroy VIC 3065 (HQ)",
+    "website": "https://www.vahs.org.au",
+    "category": "Health / SEWB / Youth",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Rumbalara Aboriginal Co‑operative",
+    "description": " (Focus: Health, housing, family & community services (Goulburn Valley))",
+    "phone": "(03) 5820 0035",
+    "email": "",
+    "address": "20 Rumbalara Rd, Mooroopna VIC 3629",
+    "website": "https://rumbalara.org.au",
+    "category": "Health / Housing / Families",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "GEGAC – Gippsland & East Gippsland Aboriginal Co‑operative",
+    "description": " (Focus: Health, family services, culture & community programs)",
+    "phone": "(03) 5150 0700",
+    "email": "",
+    "address": "37‑53 Dalmahoy St, Bairnsdale VIC 3875",
+    "website": "https://gegac.org.au",
+    "category": "Health / Families",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "VACCA – Victorian Aboriginal Child Care Agency",
+    "description": " (Focus: Child & family services, cultural programs, kinship & OOHC supports)",
+    "phone": "(03) 9287 8800",
+    "email": "",
+    "address": "340 Bell St, Preston VIC 3072",
+    "website": "https://www.vacca.org",
+    "category": "Children & Families",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Djirra",
+    "description": " (Focus: Support for Aboriginal people experiencing family violence; legal & non‑legal supports)",
+    "phone": "1800 105 303",
+    "email": "",
+    "address": "292 Hoddle St, Abbotsford VIC 3067",
+    "website": "https://www.djirra.org.au",
+    "category": "Family Violence / Legal",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Elizabeth Morgan House",
+    "description": " (Focus: Crisis accommodation & support for Aboriginal women & children)",
+    "phone": "(03) 9482 5744",
+    "email": "",
+    "address": "Abbotsford VIC (office)",
+    "website": "https://www.emhaws.org.au",
+    "category": "Women / Housing",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Derbarl Yerrigan Health Service",
+    "description": " (Focus: Health & SEWB across Perth metro; community programs)",
+    "phone": "(08) 9421 3888",
+    "email": "",
+    "address": "156 Wittenoom St, East Perth WA 6004",
+    "website": "https://www.dyhs.org.au",
+    "category": "Health / SEWB",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "KAMS – Kimberley Aboriginal Medical Services",
+    "description": " (Focus: Regional ACCHO support; SEWB, prevention & workforce)",
+    "phone": "(08) 9194 3200",
+    "email": "",
+    "address": "16‑18 Cable Beach Rd W, Broome WA 6725",
+    "website": "https://kams.org.au",
+    "category": "Health / SEWB",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Noongar Mia Mia",
+    "description": " (Focus: Aboriginal community‑controlled housing and tenancy support)",
+    "phone": "(08) 9271 8711",
+    "email": "operations@noongarmiamia.com.au",
+    "address": "Perth WA",
+    "website": "https://noongarmiamia.com.au",
+    "category": "Housing",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Wungening Aboriginal Corporation",
+    "description": " (Focus: Family support, AOD services, emergency relief referrals, community programs)",
+    "phone": "(08) 9221 1411",
+    "email": "",
+    "address": "211 Royal St, East Perth WA 6004",
+    "website": "https://www.wungening.com.au",
+    "category": "Families / AOD / ER",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Waalitj Foundation (formerly Wirrpanda)",
+    "description": " (Focus: Employment, education & business support programs for mob)",
+    "phone": "(08) 9242 6700",
+    "email": "",
+    "address": "Clontarf Rd, Perth WA (HQ)",
+    "website": "https://www.waalitjfoundation.org.au",
+    "category": "Employment / Education",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Nunkuwarrin Yunti of South Australia",
+    "description": " (Focus: Health & Social and Emotional Wellbeing; family & community programs)",
+    "phone": "(08) 8406 1600",
+    "email": "",
+    "address": "182‑190 Wakefield St, Adelaide SA 5000",
+    "website": "https://nunku.org.au",
+    "category": "Health / SEWB / Families",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "KWY Aboriginal Corporation",
+    "description": " (Focus: Family violence services, men’s behaviour change, housing pathways)",
+    "phone": "(08) 8377 7822",
+    "email": "",
+    "address": "4/168 Philip Hwy, Elizabeth SA 5112",
+    "website": "https://www.kwy.org.au",
+    "category": "Family Violence / Housing",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "TAIHS – Riverland & Murraylands (via ASG links)",
+    "description": " (Focus: AOD & homelessness pathways with Aboriginal Sobriety Group partners)",
+    "phone": "",
+    "email": "",
+    "address": "Riverland/Murraylands SA",
+    "website": "https://aboriginalsobrietygroup.org.au",
+    "category": "AOD / Homelessness",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "ALRM – Aboriginal Legal Rights Movement",
+    "description": " (Focus: Legal assistance and community legal education for Aboriginal people in SA)",
+    "phone": "1800 643 222",
+    "email": "info@alrm.org.au",
+    "address": "321‑325 King William St, Adelaide SA 5000",
+    "website": "https://alrm.org.au",
+    "category": "Legal",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "Central Australian Aboriginal Congress",
+    "description": " (Focus: Comprehensive primary health & SEWB; family & youth programs)",
+    "phone": "(08) 8951 4400",
+    "email": "info@caac.org.au",
+    "address": "26 Ghan Rd, Ciccone NT 0870",
+    "website": "https://www.caac.org.au",
+    "category": "Health / SEWB / Youth",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Danila Dilba Health Service",
+    "description": " (Focus: Health & SEWB in Darwin / Palmerston; community programs)",
+    "phone": "(08) 8942 5400",
+    "email": "",
+    "address": "32 Mitchell St, Darwin NT 0800 (Admin)",
+    "website": "https://ddhs.org.au",
+    "category": "Health / SEWB",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Miwatj Health Aboriginal Corporation",
+    "description": " (Focus: Health & SEWB across East Arnhem; community programs)",
+    "phone": "(08) 8939 1900",
+    "email": "",
+    "address": "Nhulunbuy NT",
+    "website": "https://miwatj.com.au",
+    "category": "Health / SEWB",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Sunrise Health Service Aboriginal Corporation",
+    "description": " (Focus: Primary health & SEWB (Katherine region))",
+    "phone": "(08) 8971 9500",
+    "email": "",
+    "address": "25 Third St, Katherine NT 0850",
+    "website": "https://sunrise.org.au",
+    "category": "Health / SEWB",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Larrakia Nation Aboriginal Corporation",
+    "description": " (Focus: Homelessness outreach (long‑grass), return‑to‑country, community patrols)",
+    "phone": "(08) 8948 3733",
+    "email": "",
+    "address": "76 Dick Ward Dr, Coconut Grove NT 0810",
+    "website": "https://larrakia.com",
+    "category": "Homelessness / Community",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "WYDAC – Warlpiri Youth Development Aboriginal Corporation (Mt Theo)",
+    "description": " (Focus: Youth diversion, cultural programs, AOD prevention in Warlpiri communities)",
+    "phone": "(08) 8956 4168",
+    "email": "",
+    "address": "127 Bath St, Alice Springs NT 0870",
+    "website": "https://wydac.org.au",
+    "category": "Youth / AOD / Culture",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Winnunga Nimmityjah Aboriginal Health Service (ACT)",
+    "description": " (Focus: Health & Social Health Team (SEWB), groups and counselling)",
+    "phone": "(02) 6284 6222",
+    "email": "",
+    "address": "63 Boolimba Cres, Narrabundah ACT 2604",
+    "website": "https://winnunga.org.au",
+    "category": "Health / SEWB",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "Tasmanian Aboriginal Centre",
+    "description": " (Focus: Health, counselling/SEWB, family & culture programs; multiple sites)",
+    "phone": "(03) 6332 3800",
+    "email": "launceston@tacinc.com.au",
+    "address": "182 Charles St, Launceston TAS 7250 (plus other sites)",
+    "website": "https://tacinc.com.au",
+    "category": "Health / SEWB / Culture",
+    "location": "Tasmania"
+  },
+  {
+    "organisation": "ALS NSW/ACT – Aboriginal Legal Service",
+    "description": " (Focus: Criminal, family, civil law; community legal education)",
+    "phone": "1800 765 767",
+    "email": "",
+    "address": "NSW/ACT (multiple offices)",
+    "website": "https://www.alsnswact.org.au",
+    "category": "Legal",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "ALSWA – Aboriginal Legal Service of WA",
+    "description": " (Focus: Legal support across WA; outreach to regions)",
+    "phone": "(08) 9265 6666 / 1800 019 900",
+    "email": "reception@als.org.au",
+    "address": "Perth WA (PO Box 8194)",
+    "website": "https://www.als.org.au",
+    "category": "Legal",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "ATSILS QLD – Aboriginal & Torres Strait Islander Legal Service",
+    "description": " (Focus: Criminal, family, civil law; 20+ offices across QLD)",
+    "phone": "1800 012 255",
+    "email": "",
+    "address": "QLD (multiple locations)",
+    "website": "https://atsils.org.au",
+    "category": "Legal",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "NAAJA – North Australian Aboriginal Justice Agency",
+    "description": " (Focus: Legal services across NT; civil, criminal, family; throughcare)",
+    "phone": "1800 898 251",
+    "email": "reception@naaja.org.au",
+    "address": "61 Smith St, Darwin NT 0800",
+    "website": "https://naaja.org.au",
+    "category": "Legal",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "ALRM – Aboriginal Legal Rights Movement (SA)",
+    "description": " (Focus: Legal services and advocacy across SA)",
+    "phone": "1800 643 222",
+    "email": "info@alrm.org.au",
+    "address": "321‑325 King William St, Adelaide SA 5000",
+    "website": "https://alrm.org.au",
+    "category": "Legal",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "TALS – Tasmanian Aboriginal Legal Service",
+    "description": " (Focus: Legal support for Aboriginal people in Tasmania)",
+    "phone": "",
+    "email": "",
+    "address": "TAS (multiple)",
+    "website": "https://tals.au",
+    "category": "Legal",
+    "location": "Tasmania"
+  },
+  {
+    "organisation": "QIFVLS – Queensland Indigenous Family Violence Legal Service",
+    "description": " (Focus: FV legal assistance & support across QLD)",
+    "phone": "1800 887 700",
+    "email": "help@qifvls.com.au",
+    "address": "Level 1, Suite 4, 101‑111 Spence St, Cairns QLD 4870",
+    "website": "https://qifvls.com.au",
+    "category": "Family Violence / Legal",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "AFLS – Aboriginal Family Legal Services (WA)",
+    "description": " (Focus: Family violence legal services and advocacy across WA regions)",
+    "phone": "(08) 9355 1502",
+    "email": "",
+    "address": "Perth WA (and regional offices)",
+    "website": "https://www.aflswa.org.au",
+    "category": "Family Violence / Legal",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Wirringa Baiya Aboriginal Women’s Legal Centre (NSW)",
+    "description": " (Focus: Aboriginal women’s legal advice & support, including FV & sexual assault)",
+    "phone": "1800 686 587",
+    "email": "",
+    "address": "NSW",
+    "website": "https://wirringabaiya.org.au",
+    "category": "Women / Legal",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Outcare – Aboriginal Throughcare",
+    "description": " (Focus: Supports Aboriginal people from ~9 months pre-release to 2 years post-release; housing, employment, family reconnection, health support)",
+    "phone": "(02) 6263 8622",
+    "email": "",
+    "address": "National (program model), ACT base",
+    "website": "https://outcare.com.au/programs/aboriginal-throughcare/",
+    "category": "Health & Wellbeing",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "ReSet (Waalitj Foundation & Wungening Aboriginal Corporation)",
+    "description": " (Focus: Throughcare support in WA; reintegration for men & women, inside prison and post-release; housing, employment, mentoring, family)",
+    "phone": "(08) 9221 1411",
+    "email": "",
+    "address": "Perth WA (delivered in prisons and community)",
+    "website": "https://www.wungening.com.au/reset-adult-justice",
+    "category": "Housing & Homelessness",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "NAAJA – Throughcare Support Program",
+    "description": " (Focus: Wraparound pre-release and post-release support for Aboriginal people in NT (Darwin Correctional Centre, Don Dale Juvenile Detention))",
+    "phone": "1800 898 251",
+    "email": "reception@naaja.org.au",
+    "address": "61 Smith St, Darwin NT 0800",
+    "website": "https://www.naaja.org.au",
+    "category": "General Services",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Corrective Services NSW – Aboriginal & Torres Strait Islander Offenders Support",
+    "description": " (Focus: Specialist Aboriginal strategy, programs, advisory, reintegration planning for Indigenous offenders in custody & community supervision)",
+    "phone": "",
+    "email": "",
+    "address": "NSW Correctional Centres & Community Corrections",
+    "website": "https://correctiveservices.dcj.nsw.gov.au/reducing-re-offending/initiatives-to-support-offenders/specialist-support/aboriginal-and-torres-strait-offenders.html",
+    "category": "Community & Culture",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Community Restorative Centre (CRC)",
+    "description": " (Focus: NSW-based NGO: holistic reintegration, casework, advocacy, family engagement for people leaving prison (incl. Aboriginal programs))",
+    "phone": "(02) 9288 8700",
+    "email": "info@crcnsw.org.au",
+    "address": "251 Canterbury Rd, Canterbury NSW 2193",
+    "website": "https://www.crcnsw.org.au",
+    "category": "Women, Children & Families",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "SA Aboriginal Liaison Officers / Aboriginal Prisoner Support Units",
+    "description": " (Focus: Aboriginal Liaison Officers embedded in SA prisons & corrections; support with family contact, reintegration, supervised release)",
+    "phone": "",
+    "email": "",
+    "address": "SA Prisons (multiple sites)",
+    "website": "https://www.sa.gov.au/topics/rights-and-law/sa-prisons/support-for-prisoners/aboriginal-prisoners",
+    "category": "Women, Children & Families",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "ALRM – Aboriginal Legal Rights Movement (Reintegration/Throughcare advocacy)",
+    "description": " (Focus: Legal support & advocacy for Aboriginal prisoners & families; referral to reintegration programs; parole support)",
+    "phone": "1800 643 222",
+    "email": "info@alrm.org.au",
+    "address": "321–325 King William St, Adelaide SA 5000",
+    "website": "https://www.alrm.org.au",
+    "category": "Legal & Justice",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "Prison Employment Services for First Nations Peoples (policy initiative)",
+    "description": " (Focus: National policy framework (DEWR) to design culturally safe prison-to-work transitions for Aboriginal and Torres Strait Islander people)",
+    "phone": "",
+    "email": "",
+    "address": "National",
+    "website": "https://www.dewr.gov.au",
+    "category": "Employment & Economic Development",
+    "location": "National"
+  },
+  {
+    "organisation": "ATSILS QLD – Prisoner Throughcare",
+    "description": " (Focus: Throughcare program for Aboriginal & Torres Strait Islander prisoners across Queensland; support for housing, employment, behaviour change)",
+    "phone": "1800 012 255",
+    "email": "",
+    "address": "Queensland (multiple offices)",
+    "website": "https://atsils.org.au/prisoner-throughcare/",
+    "category": "Housing & Homelessness",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Ngudjoong Billa – Aboriginal Youth Reintegration & Transition Program",
+    "description": " (Focus: Support for Aboriginal youth exiting custody in Shoalhaven / Far South Coast NSW; identity, family reconnection, culture, reducing reoffending)",
+    "phone": "",
+    "email": "",
+    "address": "Shoalhaven & Far South Coast NSW",
+    "website": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services/support-services/aboriginal-reintegration-program",
+    "category": "Education & Youth",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Ngalla Maya (WA)",
+    "description": " (Focus: Grassroots mentoring, training & employment support for Aboriginal ex-prisoners in WA)",
+    "phone": "",
+    "email": "",
+    "address": "WA",
+    "website": "https://en.wikipedia.org/wiki/Ngalla_Maya",
+    "category": "Employment & Economic Development",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Koori Cognitive Skills Program (VIC Corrections)",
+    "description": " (Focus: Culturally adapted cognitive skills intervention for Koori prisoners preparing for release)",
+    "phone": "",
+    "email": "",
+    "address": "Victoria correctional centres",
+    "website": "https://www.corrections.vic.gov.au/being-in-prison/programs",
+    "category": "General Services",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Koori Justice Unit (Victoria)",
+    "description": " (Focus: Coordinates Aboriginal justice programs, policy and reintegration supports; oversees Local Justice Worker Program)",
+    "phone": "",
+    "email": "koori.justice@justice.vic.gov.au",
+    "address": "Melbourne VIC",
+    "website": "https://www.aboriginaljustice.vic.gov.au/the-koori-justice-unit",
+    "category": "Legal & Justice",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Local Justice Worker Program (Victoria)",
+    "description": " (Focus: Supports Aboriginal people to complete Community Corrections Orders, manage fines, engage with justice supports)",
+    "phone": "",
+    "email": "",
+    "address": "Victoria (delivered via ACCOs)",
+    "website": "https://www.vic.gov.au/local-justice-worker-program-grant-rfa-007-24-25-koori-justice-unit",
+    "category": "Legal & Justice",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Outcare – Aboriginal Throughcare",
+    "description": " (Focus: Supports Aboriginal people from ~9 months pre-release to 2 years post-release; housing, employment, family reconnection, health support)",
+    "phone": "(02) 6263 8622",
+    "email": "",
+    "address": "National (program model), ACT base",
+    "website": "https://outcare.com.au/programs/aboriginal-throughcare/",
+    "category": "Health & Wellbeing",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "ReSet (Waalitj Foundation & Wungening Aboriginal Corporation)",
+    "description": " (Focus: Throughcare support in WA; reintegration for men & women, inside prison and post-release; housing, employment, mentoring, family)",
+    "phone": "(08) 9221 1411",
+    "email": "",
+    "address": "Perth WA (delivered in prisons and community)",
+    "website": "https://www.wungening.com.au/reset-adult-justice",
+    "category": "Housing & Homelessness",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "NAAJA – Throughcare Support Program",
+    "description": " (Focus: Wraparound pre-release and post-release support for Aboriginal people in NT (Darwin Correctional Centre, Don Dale Juvenile Detention))",
+    "phone": "1800 898 251",
+    "email": "reception@naaja.org.au",
+    "address": "61 Smith St, Darwin NT 0800",
+    "website": "https://www.naaja.org.au",
+    "category": "General Services",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Corrective Services NSW – Aboriginal & Torres Strait Islander Offenders Support",
+    "description": " (Focus: Specialist Aboriginal strategy, programs, advisory, reintegration planning for Indigenous offenders in custody & community supervision)",
+    "phone": "",
+    "email": "",
+    "address": "NSW Correctional Centres & Community Corrections",
+    "website": "https://correctiveservices.dcj.nsw.gov.au/reducing-re-offending/initiatives-to-support-offenders/specialist-support/aboriginal-and-torres-strait-offenders.html",
+    "category": "Community & Culture",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Community Restorative Centre (CRC)",
+    "description": " (Focus: NSW-based NGO: holistic reintegration, casework, advocacy, family engagement for people leaving prison (incl. Aboriginal programs))",
+    "phone": "(02) 9288 8700",
+    "email": "info@crcnsw.org.au",
+    "address": "251 Canterbury Rd, Canterbury NSW 2193",
+    "website": "https://www.crcnsw.org.au",
+    "category": "Women, Children & Families",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "SA Aboriginal Liaison Officers / Aboriginal Prisoner Support Units",
+    "description": " (Focus: Aboriginal Liaison Officers embedded in SA prisons & corrections; support with family contact, reintegration, supervised release)",
+    "phone": "",
+    "email": "",
+    "address": "SA Prisons (multiple sites)",
+    "website": "https://www.sa.gov.au/topics/rights-and-law/sa-prisons/support-for-prisoners/aboriginal-prisoners",
+    "category": "Women, Children & Families",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "ALRM – Aboriginal Legal Rights Movement (Reintegration/Throughcare advocacy)",
+    "description": " (Focus: Legal support & advocacy for Aboriginal prisoners & families; referral to reintegration programs; parole support)",
+    "phone": "1800 643 222",
+    "email": "info@alrm.org.au",
+    "address": "321–325 King William St, Adelaide SA 5000",
+    "website": "https://www.alrm.org.au",
+    "category": "Legal & Justice",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "Prison Employment Services for First Nations Peoples (policy initiative)",
+    "description": " (Focus: National policy framework (DEWR) to design culturally safe prison-to-work transitions for Aboriginal and Torres Strait Islander people)",
+    "phone": "",
+    "email": "",
+    "address": "National",
+    "website": "https://www.dewr.gov.au",
+    "category": "Employment & Economic Development",
+    "location": "National"
+  },
+  {
+    "organisation": "13YARN",
+    "description": " (Focus: National 24/7 crisis support line for Aboriginal & Torres Strait Islander people)",
+    "phone": "13 92 76",
+    "email": "enquiries@13yarn.org.au",
+    "address": "",
+    "website": "https://www.13yarn.org.au",
+    "category": "Suicide Prevention & SEWB",
+    "location": "National"
+  },
+  {
+    "organisation": "Thirrili – National Indigenous Postvention Service",
+    "description": " (Focus: Postvention: support for families and communities impacted by suicide or a traumatic loss; advocates and case management)",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "website": "https://thirrili.com.au/",
+    "category": "Suicide Prevention & SEWB",
+    "location": "National"
+  },
+  {
+    "organisation": "CBPATSISP – Centre of Best Practice in Aboriginal & Torres Strait Islander Suicide Prevention",
+    "description": " (Focus: National Indigenous-specific suicide prevention centre: resources, best practice, policy, advocacy)",
+    "phone": "",
+    "email": "",
+    "address": "The University of Western Australia, 35 Hackett Drive, Crawley WA 6009",
+    "website": "https://cbpatsisp.com.au/",
+    "category": "Suicide Prevention & SEWB",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "NACCHO – Culture Care Connect (CCC)",
+    "description": " (Focus: Community-controlled suicide prevention networks and holistic aftercare delivered via ACCHOs across Australia)",
+    "phone": "+61 2 6246 9300",
+    "email": "",
+    "address": "Level 5 East Tower, 2 Constitution Ave, Canberra ACT 2601",
+    "website": "https://www.naccho.org.au/culture-care-connect/",
+    "category": "Suicide Prevention & SEWB",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "ATSICHS Brisbane – Social Health (SEWB)",
+    "description": " (Focus: SEWB counselling, case management, family wellbeing and culturally safe mental health supports)",
+    "phone": "(07) 3240 8900",
+    "email": "",
+    "address": "Level 1, 55 Annerley Rd, Woolloongabba QLD 4102",
+    "website": "https://atsichsbrisbane.org.au/services/wellbeing-health/social-health/",
+    "category": "Health & Wellbeing",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Apunipima Cape York Health Council – SEWB / Wellbeing Centres",
+    "description": " (Focus: SEWB Wellbeing Centres (Aurukun, Coen, Mossman Gorge, Hope Vale); counselling, support, referrals)",
+    "phone": "(07) 4037 7100",
+    "email": "",
+    "address": "186 McCoombe St, Bungalow, Cairns QLD 4870 (Head Office)",
+    "website": "https://www.apunipima.org.au/social-emotional-wellbeing/",
+    "category": "Health & Wellbeing",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Central Australian Aboriginal Congress – SEWB",
+    "description": " (Focus: SEWB and psychological support for Aboriginal people and families; counselling and social/cultural wellbeing)",
+    "phone": "(08) 8951 4400",
+    "email": "info@caac.org.au",
+    "address": "26 Ghan Rd, Ciccone NT 0870 (Head Office)",
+    "website": "https://www.caac.org.au/service/psychological-support/",
+    "category": "Health & Wellbeing",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Derbarl Yerrigan Health Service – SEWB",
+    "description": " (Focus: ACCHO with Social & Emotional Wellbeing services; culturally secure supports in Perth region)",
+    "phone": "(08) 9421 3888",
+    "email": "",
+    "address": "156 Wittenoom St, East Perth WA 6004",
+    "website": "https://www.dyhs.org.au/",
+    "category": "Health & Wellbeing",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Kimberley Aboriginal Medical Services (KAMS) – SEWB",
+    "description": " (Focus: SEWB programs & workforce support across the Kimberley; suicide prevention training & resources)",
+    "phone": "(08) 9194 3200",
+    "email": "",
+    "address": "16-18 Cable Beach Rd W, Broome WA 6725",
+    "website": "https://kams.org.au/kamsc-services/social-emotional-well-being/",
+    "category": "Health & Wellbeing",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Nunkuwarrin Yunti – Social & Emotional Wellbeing",
+    "description": " (Focus: Holistic SEWB supports incl. counselling, healing groups, family support)",
+    "phone": "(08) 8406 1600",
+    "email": "",
+    "address": "182-190 Wakefield St, Adelaide SA 5000",
+    "website": "https://nunku.org.au/",
+    "category": "Health & Wellbeing",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "Victorian Aboriginal Health Service (VAHS) – Family Counselling / SEWB",
+    "description": " (Focus: Family counselling and SEWB supports; multiple sites)",
+    "phone": "(03) 9419 3000",
+    "email": "",
+    "address": "Family Counselling: 250 Plenty Rd, Preston VIC 3072; Fitzroy HQ: 186 Nicholson St, Fitzroy VIC 3065",
+    "website": "https://www.vahs.org.au/contact/",
+    "category": "Health & Wellbeing",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Yerin Eleanor Duncan Aboriginal Health Services – Wellbeing",
+    "description": " (Focus: Integrated health and community programs addressing physical, spiritual, emotional and social needs (incl. SEWB))",
+    "phone": "(02) 4351 1040",
+    "email": "",
+    "address": "2A McPherson Rd, Mardi NSW 2259",
+    "website": "https://eleanorduncan.org.au/get-assistance/",
+    "category": "Health & Wellbeing",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Winnunga Nimmityjah Aboriginal Health Service – Social Health Team",
+    "description": " (Focus: SEWB programs, counselling, Bringing Them Home, substance misuse support; Men’s & Women’s groups)",
+    "phone": "(02) 6284 6222",
+    "email": "",
+    "address": "63 Boolimba Cres, Narrabundah ACT 2604",
+    "website": "https://winnunga.org.au/social/",
+    "category": "Health & Wellbeing",
+    "location": "Australian Capital Territory"
+  },
+  {
+    "organisation": "Tasmanian Aboriginal Centre – Counselling/SEWB (multi-site)",
+    "description": " (Focus: Counselling and community supports; referrals for emergency relief)",
+    "phone": "(03) 6332 3800 (Launceston) / (03) 6436 4100 (Burnie)",
+    "email": "launceston@tacinc.com.au; burnie@tacinc.com.au",
+    "address": "182 Charles St, Launceston TAS 7250; 53 Alexander St, Burnie TAS 7320",
+    "website": "https://tacinc.com.au/",
+    "category": "Health & Wellbeing",
+    "location": "Tasmania"
+  },
+  {
+    "organisation": "Murri Watch Aboriginal & Torres Strait Islander Corporation",
+    "description": " (Focus: Homelessness outreach, diversionary centre, community patrol (Brisbane, Townsville))",
+    "phone": "",
+    "email": "",
+    "address": "Brisbane & Townsville (see website)",
+    "website": "https://murriwatch.org.au",
+    "category": "Housing & Homelessness",
+    "location": "National"
+  },
+  {
+    "organisation": "Umpi Korumba Aboriginal & Torres Strait Islander Corporation for Housing",
+    "description": " (Focus: Supported/transitional accommodation and housing support for families)",
+    "phone": "",
+    "email": "reception@umpikorumba.com.au",
+    "address": "74 Handford Road, Zillmere QLD 4034",
+    "website": "https://umpikorumba.com.au",
+    "category": "Housing & Homelessness",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Yumba-Meta Limited (Townsville)",
+    "description": " (Focus: Community housing, women's shelters, long-term and crisis accommodation)",
+    "phone": "(07) 4723 5611",
+    "email": "housing@yumbameta.com.au",
+    "address": "Townsville, QLD",
+    "website": "https://yumba-meta.com.au/",
+    "category": "Housing & Homelessness",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Girudala Community Co‑Operative Society Ltd",
+    "description": " (Focus: Affordable housing, Indigenous family wellbeing; food relief connections via local programs)",
+    "phone": "(07) 4786 1000",
+    "email": "",
+    "address": "50 George St, Bowen QLD 4805",
+    "website": "https://girudala.com.au/",
+    "category": "Health & Wellbeing",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Palm Island Community Company (PICC)",
+    "description": " (Focus: Family wellbeing, diversionary services; community shop and local supports)",
+    "phone": "(07) 4421 4300",
+    "email": "ndis@picc.com.au",
+    "address": "61–73 Sturt St, Townsville QLD 4810 (Townsville office)",
+    "website": "https://www.picc.com.au/",
+    "category": "Health & Wellbeing",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Mura Kosker Sorority Inc.",
+    "description": " (Focus: Family and community support for Torres Strait Islanders; emergency relief links)",
+    "phone": "(07) 4069 1663",
+    "email": "info@murakosker.org.au",
+    "address": "99 Douglas St, Thursday Island QLD 4875",
+    "website": "https://murakosker.org.au/",
+    "category": "Food Relief",
+    "location": "Queensland"
+  },
+  {
+    "organisation": "Larrakia Nation Aboriginal Corporation (HEAL & LITS)",
+    "description": " (Focus: Homelessness outreach (‘long-grass’), case management, return-to-country; food support)",
+    "phone": "(08) 8948 3733",
+    "email": "heal@larrakia.com",
+    "address": "50 Bradshaw Tce, Casuarina NT 0810 (HEAL)",
+    "website": "https://larrakia.com/",
+    "category": "Housing & Homelessness",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Tangentyere Council Aboriginal Corporation",
+    "description": " (Focus: Town camp support, housing & tenancy services, emergency relief referrals)",
+    "phone": "",
+    "email": "",
+    "address": "Alice Springs, NT",
+    "website": "https://www.tangentyere.org.au/",
+    "category": "Housing & Homelessness",
+    "location": "Northern Territory"
+  },
+  {
+    "organisation": "Noongar Mia Mia",
+    "description": " (Focus: Aboriginal community-controlled housing provider (Perth & regions))",
+    "phone": "(08) 9271 8711",
+    "email": "operations@noongarmiamia.com.au",
+    "address": "Perth, WA",
+    "website": "https://noongarmiamia.com.au/",
+    "category": "Housing & Homelessness",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Wungening Aboriginal Corporation",
+    "description": " (Focus: Family support, AOD, emergency relief and referrals; community services)",
+    "phone": "(08) 9221 1411",
+    "email": "",
+    "address": "211 Royal St, East Perth WA 6004",
+    "website": "https://www.wungening.com.au/",
+    "category": "Food Relief",
+    "location": "Western Australia"
+  },
+  {
+    "organisation": "Aboriginal Sobriety Group Indigenous Corporation (ASG)",
+    "description": " (Focus: Homelessness outreach, sobering-up & accommodation, emergency relief links)",
+    "phone": "(08) 8223 4204",
+    "email": "",
+    "address": "94 Grand Junction Rd, Kilburn SA 5084",
+    "website": "https://aboriginalsobrietygroup.org.au/",
+    "category": "Housing & Homelessness",
+    "location": "South Australia"
+  },
+  {
+    "organisation": "Elizabeth Morgan House Aboriginal Women’s Services",
+    "description": " (Focus: Crisis accommodation and support for Aboriginal women & children; material aid)",
+    "phone": "(03) 9482 5744",
+    "email": "",
+    "address": "Victoria (head office Abbotsford)",
+    "website": "https://www.emhaws.org.au/",
+    "category": "Housing & Homelessness",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Aboriginal Housing Victoria (AHV)",
+    "description": " (Focus: Aboriginal community-controlled housing provider; tenancy support)",
+    "phone": "1800 248 842",
+    "email": "clientservices@ahvic.org.au",
+    "address": "Narrandjeri House, 125–127 Scotchmer St, Fitzroy North VIC 3068",
+    "website": "https://www.ahvic.org.au/",
+    "category": "Housing & Homelessness",
+    "location": "Victoria"
+  },
+  {
+    "organisation": "Weave Youth & Community Services (origins in Aboriginal women’s advocacy)",
+    "description": " (Focus: Crisis support, casework, food/material aid links for families and youth)",
+    "phone": "(02) 9318 0539",
+    "email": "",
+    "address": "1B Elizabeth St (cnr Allen St), Waterloo NSW 2017",
+    "website": "https://www.weave.org.au/",
+    "category": "Food Relief",
+    "location": "New South Wales"
+  },
+  {
+    "organisation": "Tasmanian Aboriginal Centre (multiple sites)",
+    "description": " (Focus: Aboriginal health & community services; emergency relief referrals)",
+    "phone": "(03) 6332 3800 (Launceston) / (03) 6436 4100 (Burnie)",
+    "email": "launceston@tacinc.com.au / burnie@tacinc.com.au",
+    "address": "182 Charles St, Launceston TAS 7250; 53 Alexander St, Burnie TAS 7320",
+    "website": "https://tacinc.com.au/",
+    "category": "Health & Wellbeing",
+    "location": "Tasmania"
+  },
+  {
+    "organisation": "Loaves & Fishes Tasmania (statewide food relief partner)",
+    "description": " (Focus: Emergency food relief: cooked meals, hampers; referrals via community orgs)",
+    "phone": "(03) 6417 3131",
+    "email": "",
+    "address": "136–140 Don Rd, Devonport TAS 7310",
+    "website": "https://loavesandfishestasmania.org.au/",
+    "category": "Food Relief",
+    "location": "Tasmania"
+  }
+]
